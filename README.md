@@ -1,1 +1,1 @@
-# Todolist-vanilla-JS
+# vanilla-todo
